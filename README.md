@@ -1,3 +1,3 @@
 XMLsteps
 ========
-Just trying out some steps with XML here...
+Just trying out some first steps with XML and PHP here.

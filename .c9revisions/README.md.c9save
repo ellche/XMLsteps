@@ -1,0 +1,4 @@
+{"ts":1353869866827,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"XMLsteps\n========\nJust trying out some steps with XML here..."]],"start1":0,"start2":0,"length1":0,"length2":61}]],"length":61}
+{"contributors":[],"silentsave":false,"ts":1353869854761,"patch":[[{"diffs":[[0,"ut some "],[1,"first "],[0,"steps wi"]],"start1":31,"start2":31,"length1":16,"length2":22},{"diffs":[[0,"ith XML "],[1,"and PHP "],[0,"here..."]],"start1":52,"start2":52,"length1":15,"length2":23}]],"length":75,"saved":false}
+{"contributors":[],"silentsave":false,"ts":1353872257355,"patch":[[{"diffs":[[0,"ut some "],[1,"first "],[0,"steps wi"]],"start1":31,"start2":31,"length1":16,"length2":22},{"diffs":[[0,"XML "],[1,"and PHP "],[0,"here.."],[-1,"."]],"start1":56,"start2":56,"length1":11,"length2":18}]],"length":74,"saved":false}
+{"ts":1353872409231,"patch":[[{"diffs":[[0,"HP here."],[-1,"."],[1,"\n"]],"start1":65,"start2":65,"length1":9,"length2":9}]],"length":74,"saved":false}
